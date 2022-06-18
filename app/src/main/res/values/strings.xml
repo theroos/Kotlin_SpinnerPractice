@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KotlinSpinner_prac</string>
+    <string name="selected_item">Selected item:</string>
+    <string-array name="Months">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+    </string-array>
+</resources>
