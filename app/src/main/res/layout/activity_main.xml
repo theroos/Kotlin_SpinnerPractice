@@ -9,8 +9,8 @@
 
     <Spinner
         android:id="@+id/spinner_test"
-        android:layout_width="100dp"
-        android:layout_height="wrap_content"
+        android:layout_width="170dp"
+        android:layout_height="45dp"
         android:layout_gravity="center"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -23,7 +23,6 @@
         android:id="@+id/spinner_msg"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Spinner text"
         android:textAlignment="center"
         android:textSize="15dp"
         app:layout_constraintBottom_toBottomOf="parent"
